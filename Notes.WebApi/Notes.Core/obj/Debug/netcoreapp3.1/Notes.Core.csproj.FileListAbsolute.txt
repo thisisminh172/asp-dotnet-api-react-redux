@@ -1,0 +1,12 @@
+D:\asp-net-api-react\Notes.WebApi\Notes.Core\bin\Debug\netcoreapp3.1\Notes.Core.deps.json
+D:\asp-net-api-react\Notes.WebApi\Notes.Core\bin\Debug\netcoreapp3.1\Notes.Core.dll
+D:\asp-net-api-react\Notes.WebApi\Notes.Core\bin\Debug\netcoreapp3.1\Notes.Core.pdb
+D:\asp-net-api-react\Notes.WebApi\Notes.Core\bin\Debug\netcoreapp3.1\Notes.DB.dll
+D:\asp-net-api-react\Notes.WebApi\Notes.Core\bin\Debug\netcoreapp3.1\Notes.DB.pdb
+D:\asp-net-api-react\Notes.WebApi\Notes.Core\obj\Debug\netcoreapp3.1\Notes.Core.csprojAssemblyReference.cache
+D:\asp-net-api-react\Notes.WebApi\Notes.Core\obj\Debug\netcoreapp3.1\Notes.Core.AssemblyInfoInputs.cache
+D:\asp-net-api-react\Notes.WebApi\Notes.Core\obj\Debug\netcoreapp3.1\Notes.Core.AssemblyInfo.cs
+D:\asp-net-api-react\Notes.WebApi\Notes.Core\obj\Debug\netcoreapp3.1\Notes.Core.csproj.CoreCompileInputs.cache
+D:\asp-net-api-react\Notes.WebApi\Notes.Core\obj\Debug\netcoreapp3.1\Notes.Core.csproj.CopyComplete
+D:\asp-net-api-react\Notes.WebApi\Notes.Core\obj\Debug\netcoreapp3.1\Notes.Core.dll
+D:\asp-net-api-react\Notes.WebApi\Notes.Core\obj\Debug\netcoreapp3.1\Notes.Core.pdb
